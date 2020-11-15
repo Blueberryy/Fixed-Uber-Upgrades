@@ -1,0 +1,3248 @@
+"Phrases"
+{
+	"Body upgrade"
+	{
+		"ru"		"Улучшения тела"
+    }	
+	"Gas passer damage multiplier"
+	{
+		"ru"		"Множитель урона Запасного бака"
+	}
+	"Add uber on hit(crossbow)"
+	{
+		"ru"		"Добавить убер при попадании"
+	}
+	"fire rate bonus(sniper)"
+	{
+		"ru"		"бонус к скоростр-ти"
+	}
+	"faster reload rate(sniper)"
+	{
+		"ru"		"быстрая скорость перезарядки"
+	}
+	"Bigger Caliber(sniper)"
+	{
+		"ru"		"Большой калибр"
+	}
+	"fire rate penalty(sniper)"
+	{
+		"ru"		"штраф скоростр-ти"
+	}
+	"Reload time increased(sniper)"
+	{
+		"ru"		"Время перезарядки увеличено"
+	}
+	"dmg taken from crit reduced(wearable)"
+	{
+		"ru"		"урон от крита уменьшен"
+	}
+	"Projectile speed increased(bolts)"
+	{
+		"ru"		"Скорость снаряда увеличена"
+	}
+	"fuse time multiplier"
+	{
+		"ru"		"множитель времени фитиля"
+	}
+	"dmg taken from fire reduced(shield)"
+	{
+		"ru"		"урон от огня уменьшен"
+	}
+	"dmg taken from blast reduced(shield)"
+	{
+		"ru"		"Урон от взрыва уменьшен"
+	}
+	"You have not enough money!!"
+	{
+		"ru"		"Денег не хватает!"
+	}
+	"overheal multiplier"
+	{
+		"ru"		"Множитель сверхлечения"
+	}
+	"Projectile speed increased(arrows)"
+	{
+		"ru"		"Скорость снаряда увеличена"
+	}
+	"passive melee resist"
+	{
+		"ru"		"пассивное сопротивление от ближнего боя"
+	}
+	"Heavy Melee"
+	{
+		"ru"		"Тяжёлый удар"
+	}
+	"Tierstack"
+	{
+		"ru"		"Тирстак"
+	}
+	"Max TierStacks"
+	{
+		"ru"		"Макс. Тирстаков"
+	}
+	"Max Heavy Melee"
+	{
+		"ru"		"Макс. тяжёлых ударов"
+	}
+	"damage dealt multiplier"
+	{
+		"ru"		"множитель нанесённого урона"
+	}
+	"attackspeed multiplier"
+	{
+		"ru"		"множитель скорости атаки"
+	}
+	"sticky air burst mode"
+	{
+		"ru"		"гранаты разлетаются при контакте"
+	}
+	"Overall Damage Multiplier"
+	{
+		"ru"		"общий множитель урона"
+	}
+	"Gas Passer Explosion Damage Multiplier"
+	{
+		"ru"		"Множитель урона от взрыва Запасного бака"
+	}
+	"ubercharge overheal rate penalty"
+	{
+		"ru"		"Штраф убер-заряда при множителе урона от сверхлечения"
+	}
+	"airblast cost increased"
+	{
+		"ru"		"множитель потребления сжатого воздуха"
+	}
+	"damage hidden multiplier"
+	{
+		"ru"		"скрытый множитель урона"
+	}
+	"damage hidden multiplier (S)"
+	{
+		"ru"		"скрытый множитель урона"
+	}
+	"sapper health multiplier"
+	{
+		"ru"		"множитель здоровья жучка"
+	}
+	"fire rate bonus (B)"
+	{
+		"ru"		"бонус к скоростр-ти"
+	}
+	"Stickybomb charge damage increase"
+	{
+		"ru"		"Увеличение урона от заряда бомбы-липучки"
+	}
+	"patient overheal penalty"
+	{
+		"ru"		"штраф за сверхлечение пациента"
+	}
+	"self mark for death"
+	{
+		"ru"		"Метка смерти, когда в руках"
+	}
+	"melee speed decreased"
+	{
+		"ru"		"скорость ближнего боя снижена"
+	}
+	"Critical Strike"
+	{
+		"ru"		"Критический удар"
+	}
+	"crit damage multiplier"
+	{
+		"ru"		"множитель критического урона"
+	}
+	"sentry damage multiplier"
+	{
+		"ru"		"множитель урона турели"
+	}
+	"Class Specific Upgrades"
+	{
+		"ru"		"Особые улучшения класса"
+	}
+	"dmg penalty vs players"
+	{
+		"ru"		"штраф урона против игроков"
+	}
+	"health from healers reduced"
+	{
+		"ru"		"Штраф здоровья от медиков"
+	}
+	"dmg taken reduced(lunchbox)"
+	{
+		"ru"		"полученный урон уменьшен"
+	}
+	"armor piercing damage(test)"
+	{
+		"ru"		"бронебойный урон"
+	}
+	"all damage multiplier"
+	{
+		"ru"		"бонусный урон против игроков"
+	}
+	"charge time decreased"
+	{
+		"ru"		"время зарядки уменьшено"
+	}
+	"minicrit vs burning player"
+	{
+		"ru"		"миникрит против горящего игрока"
+	}
+	"damage bonus(melee)"
+	{
+		"ru"		"урон++"
+	}
+	"Army of not Many(S)"
+	{
+		"ru"		"Армия немногих"
+	}
+	"armor piercing damage(getbamboozled)"
+	{
+		"ru"		"бронебойный урон"
+	}
+	"Australium"
+	{
+		"ru"		"австралий"
+	}
+	"Is Australium"
+	{
+		"ru"		" из австралия"
+	}
+	"Item style override"
+	{
+		"ru"		"Переопределение стиля предмета"
+	}
+	"maxammo metal reduced(W)"
+	{
+		"ru"		"макс. кол-во металла уменьшено(W)"
+	}
+	"Festivised"
+	{
+		"ru"		"Праздничный"
+	}
+	"Festive"
+	{
+		"ru"		"Праздничный"
+	}
+	"lunchbox healing increased"
+	{
+		"ru"		"лечение от коробки для завтраков увеличено"
+	}
+	"dmg taken reduced(wearable)"
+	{
+		"ru"		"полученный урон уменьшен"
+	}
+	"damage multiplier when eaten(taken)"
+	{
+		"ru"		"множитель получаемого урона при поедании"
+	}
+	"provide on active"
+	{
+		"ru"		"даёт при использовании"
+	}
+	"Selfheal"
+	{
+		"ru"		"Самолечение"
+	}
+	"recharge rate(lunchbox)"
+	{
+		"ru"		"скорость перезарядки"
+	}
+	"engy sentry fire rate decreased"
+	{
+		"ru"		"снижена скорос-сть турели"
+	}
+	"Increased Arrow Healing"
+	{
+		"ru"		"Увеличенное лечение стрел"
+	}
+	"recharge rate(razorback)"
+	{
+		"ru"		"скорость перезарядки"
+	}
+	"rocket specialist"
+	{
+		"ru"		"специалист по ракетам"
+	}
+	"dmg taken increased"
+	{
+		"ru"		"полученный урон увеличен"
+	}
+	"dmg bonus(test)"
+	{
+		"ru"		"штраф урона против игроков(тест)"
+	}
+	"minicritboost on kill"
+	{
+		"ru"		"бонус миникритов при убийстве"
+	}
+	"Bigger Caliber(widowmaker)"
+	{
+		"ru"		"Большой калибр(овдовитель)"
+	}
+	"set_weapon_mode"
+	{
+		"ru"		"set_weapon_mode"
+	}
+	"revolver-secondary"
+	{
+		"ru"		"револьвер-доп."
+	}
+	"damage bonus(enforcer)"
+	{
+		"ru"		"бонус урона+"
+	}
+	"Armor Piercing Explosive(mangler)"
+	{
+		"ru"		"Бронебойная взрывчатка"
+	}
+	"Concentrated Fire(sniper)"
+	{
+		"ru"		"Концентрированный огонь"
+	}
+	"fire rate bonus(test)"
+	{
+		"ru"		"бонус к скоростр-ти(тест)"
+	}
+	"Doooctoor!"
+	{
+		"ru"		"Доооктоор!"
+	}
+	"sticky arm time penalty"
+	{
+		"ru"		"штраф времени подрыва липучек"
+	}
+	"fire rate bonus(H)"
+	{
+		"ru"		"бонус к скоростр-ти(H)"
+	}
+	"accuracy scales damage(S)"
+	{
+		"ru"		"точность влияет на урон(S)"
+	}
+	"Uber rate penalty"
+	{
+		"ru"		"Штраф скорости убер-заряда"
+	}
+	"heal rate multiplier"
+	{
+		"ru"		"множитель скорости исцеления"
+	}
+	"blast radius increased(F)"
+	{
+		"ru"		"радиус взрыва увеличен(F)"
+	}
+	"Gas explosion"
+	{
+		"ru"		"Взрыв газа"
+	}
+	"recharge rate(rocketpack)"
+	{
+		"ru"		"скорость перезарядки"
+	}
+	"Launch mid-air"
+	{
+		"ru"		"Запуск в воздухе"
+	}
+	"Fall damage stuns"
+	{
+		"ru"		"Оглушает урон от падения"
+	}
+	"Rocketpack upgrades"
+	{
+		"ru"		"Улучшения Реактивного ранца"
+	}
+	"recharge rate(gas)"
+	{
+		"ru"		"скорость перезарядки"
+	}
+	"Damage bonus vs player(real)"
+	{
+		"ru"		"Бонус к урону против игрока(дешево)"
+	}
+	"health from healers reduced"
+	{
+		"ru"		"исцеление от медиков уменьшено"
+	}
+	"lose hype on take damage"
+	{
+		"ru"		"теряет заряд при получении урона"
+	}
+	"sticky air burst mode"
+	{
+		"ru"		"режим липкого воздуха"
+	}
+	"fire rate bonus(shortcircuit)"
+	{
+		"ru"		"бонус к скоростр-ти(короткое замыкание)"
+	}
+	"ragdolls become ash"
+	{
+		"ru"		"трупы превращаются в пепел"
+	}
+	"UberUpgrades Shop - /buy"
+	{
+		"ru"		"Магазин UberUpgrades - /buy"
+	}
+	"move speed(aesc)"
+	{
+		"ru"		"скорость передвижения++"
+	}
+	"Projectile speed increased(DH)"
+	{
+		"ru"		"Скорость снаряда увеличена(DH)"
+	}
+	"crit chance(M)"
+	{
+		"ru"		"шанс критического попадания(M)"
+	}
+	"Crit-a-Cola Debuff"
+	{
+		"ru"		"Отрицательные эффекты Критоколы"
+	}
+	"Thermal Thruster recharge"
+	{
+		"ru"		"Перезарядка Термической тяги"
+	}
+	"Reverse Knockback"
+	{
+		"ru"		"Обратное отбрасывание"
+	}
+	"Max Health drain"
+	{
+		"ru"		"Макс. расход здоровья"
+	}
+	"damage bonus done against players"
+	{
+		"ru"		"бонус к урону по игрокам"
+	}
+	"gas passer recharge"
+	{
+		"ru"		"перезарядка Запасного бака"
+	}
+	"crits_become_minicrits"
+	{
+		"ru"		"криты_становятся_миникритами"
+	}
+	"Some Beggar Tweak(b)"
+	{
+		"ru"		"Некоторые улучшения бродяги(b)"
+	}
+	"extra fire rate HIDDEN"
+	{
+		"ru"		"доп. скоростр-ти СКРЫТО"
+	}
+	"50% fire immunity"
+	{
+		"ru"		"50% невосприимчивость к огню"
+	}
+	"30pct bleed immunity"
+	{
+		"ru"		"30 проц-ов иммунитета к кровотечению"
+	}
+	"Multifire"
+	{
+		"ru"		"Мультивыстрел"
+	}
+	"Triple Shot"
+	{
+		"ru"		"Тройной выстрел"
+	}
+	"Upgrade my primary weapon"
+	{
+		"ru"		"Улучшить основное оружие"
+	}
+	"Upgrade my secondary weapon"
+	{
+		"ru"		"Улучшить доп. оружие"
+	}
+	"Upgrade my melee weapon"
+	{
+		"ru"		"Улучшить ближний бой"
+	}
+	"applies snare effect"
+	{
+		"ru"		"применяет эффект замедления"
+	}
+	"paintkit_proto_def_index"
+	{
+		"ru"		"paintkit_proto_def_index"
+	}
+	"set_item_texture_wear"
+	{
+		"ru"		"set_item_texture_wear"
+	}
+	"parachute is visible"
+	{
+		"ru"		"парашют виден"
+	}
+	"Display Upgrades/Remove disabilities"
+	{
+		"ru"		"Показать улучшения/убрать недостатки"
+	}
+	"Buy a neeew weapon!!"
+	{
+		"ru"		"Получите расширенные улучшения тела"
+	}
+	"Upgrade my neeew weapon!!"
+	{
+		"ru"		"Расширенные улучшения тела"
+	}
+	"patient overheal bonus(S)"
+	{
+		"ru"		"бонус сверлечения пациента(S)"
+	}
+	"Speed"
+	{
+		"ru"		"Скорость"
+	}
+	"Healthy"
+	{
+		"ru"		"Здоровье"
+	}
+	"health from healers decreased"
+	{
+		"ru"		"лечение от медиков уменьшено"
+	}
+	"sniper no charge"
+	{
+		"ru"		"--"
+	}
+	"Rocket Damage"
+	{
+		"ru"		"Урон ракеты"
+	}
+	"Rocket Launcher"
+	{
+		"ru"		"Ракетомёт"
+	}
+	"damage bonus HIDDEN"
+	{
+		"ru"		"бонус к урону СКРЫТО"
+	}
+	"dmg taken from bullets reduced(T)"
+	{
+		"ru"		"урон от пуль уменьшен"
+	}
+	"flame life bonus++"
+	{
+		"ru"		"бонус к длительности пламени++"
+	}
+	"Light Flames"
+	{
+		"ru"		"Лёгкое пламя"
+	}
+	"dmg taken from blast reduced(T)"
+	{
+		"ru"		"урон от взрыва уменьшен"
+	}
+	"dmg taken from crit reduced(T)"
+	{
+		"ru"		"урон от критов уменьшен"
+	}
+	"dmg taken from fire reduced(T)"
+	{
+		"ru"		"урон от огня уменьшен"
+	}
+	"dmg taken reduced(T)"
+	{
+		"ru"		"полученный урон уменьшен"
+	}
+	"dmg from ranged reduced(T)"
+	{
+		"ru"		"урон от дальнего боя уменьшен"
+	}
+	"dmg from sentry reduced(T)"
+	{
+		"ru"		"урон от турелей уменьшен"
+	}
+	"dmg from melee reduced(T)"
+	{
+		"ru"		"урон в ближнем бою уменьшен"
+	}
+	"Display Upgrades/Remove downgrades - Primary Weapon"
+	{
+		"ru"	"Показать улучшения/Убрать ухудшения - Основное"
+	}
+	"Display Upgrades/Remove downgrades - Secondary Weapon"
+	{
+		"ru"	"Показать улучшения/Убрать ухудшения - Доп."
+	}
+	
+	"Display Upgrades/Remove downgrades - Melee Weapon"
+	{
+		"ru"	"Показать улучшения/Убрать ухудшения - Ближний бой"
+	}
+	
+	"Display Upgrades/Remove downgrades - Body"
+	{
+		"ru"	"Показать улучшения/Убрать ухудшения - Тело"
+	}
+	"grenade detonation damage bonus"
+	{
+		"ru"	"бонус к урону от детонации гранаты"
+	}
+	"Display Upgrades/Remove downgrades - Special Weapon"
+	{
+		"ru"	"Показать улучшения/Убрать ухудшения - Особое оружие"
+	}
+		"dmg pierces resists absorbs"
+	{
+		"ru"	"урон пробивает поглощение сопротивления"
+	}
+	"upgrade rate increase"
+	{
+		"ru"	"повышение скорости улучшения"
+	}
+	
+	"Primary Weapon"
+	{
+		"ru"	"Основное"
+	}
+	"Secondary Weapon"
+	{
+		"ru"	"Доп. оружие"
+	}
+	
+	"Melee Weapon"
+	{
+		"ru"	"Ближний бой"
+	}
+	
+	"Special Weapon"
+	{
+		"ru"	"Особое оружие"
+	}
+	"Body"
+	{
+		"ru"	"Тело"
+	}
+	"Attribute removed"
+	{
+		"ru" "Атрибут удалён!"
+	}
+	//SUB CATEGORIES
+	"Vaccinator Upgrades"
+	{
+		"ru"		"Улучшения Вакцинатора"
+	}
+	"fire retardant"
+	{
+		"ru"		"огнестойкий материал"
+	}
+	"stickybomb charge rate"
+	{
+		"ru"		"скорость заряда бомбы-липучки"
+	}
+	"stickybomb_charge_damage_increase"
+	{
+		"ru"		"увеличение_урона_от_заряда_бомбы-липучки"
+	}
+	"rocketjump attackrate bonus"
+	{
+		"ru"		"бонус авиаудару"
+	}
+	"spunup_damage_resistance"
+	{
+		"ru"		"сопротивление_урону_во_время_раскрутки_пулемёта"
+	}
+	"parachute attribute"
+	{
+		"ru"		"атрибут парашюта"
+	}
+	"Army of not Many(MM)"
+	{
+		"ru"		"Армия немногих(MM)"
+	}
+	"Assault Weapon(MM)"
+	{
+		"ru"		"Штурмовое оружие(MM)"
+	}
+	"building instant upgrade"
+	{
+		"ru"		"building instant upgrade"
+	}
+	"Anti Knockback"
+	{
+		"ru"		"Анти-отбрасывание"
+	}
+	"damage bonus tes"
+	{
+		"ru"		"бонус к урону"
+	}
+	"boost on damage"
+	{
+		"ru"		"усиление при получении урона"
+	}
+	"Protection upgrades"
+	{
+		"ru"		"Улучшения защиты"
+	}
+	"Physical upgrades"
+	{
+		"ru"		"Улучшения физические"
+	}
+	"Ammo upgrades"
+	{
+		"ru"		"Улучшения боеприпасов"
+	}
+	"Spy upgrades"
+	{
+		"ru"		"Улучшения для Шпиона"
+	}
+	"Ammo & metal upgrades"
+	{
+		"ru"		"Улучшения Боеприпасов и металла"
+	}
+	"Damage upgrades"
+	{
+		"ru"		"Улучшения урона"
+	}
+	"Cannon specific upgrades"
+	{
+		"ru"		"Улучшения для Пушки"
+	}
+	"Special Tweaks"
+	{
+		"ru"		"Специальные хитрости"
+	}
+	"dmg bonus vs buildings"
+	{
+		"ru"		"бонус к урону по постройкам"
+	}
+	"move speed(SP)"
+	{
+		"ru"		"скорость передвижения++"
+	}
+	"move speed(SN)"
+	{
+		"ru"		"скорость передвижения++"
+	}
+	"move speed(ME)"
+	{
+		"ru"		"скорость передвижения++"
+	}
+	"move speed(EN)"
+	{
+		"ru"		"скорость передвижения++"
+	}
+	"increased air control(S)"
+	{
+		"ru"		"повышенный контроль в воздухе++"
+	}
+	"move speed(DE)"
+	{
+		"ru"		"скорость передвижения++"
+	}
+	"move speed(PY)"
+	{
+		"ru"		"скорость передвижения++"
+	}
+	"move speed(SO)"
+	{
+		"ru"		"скорость передвижения++"
+	}
+	"move speed(SC)"
+	{
+		"ru"		"скорость передвижения++"
+	}
+	"Extra features*"
+	{
+		"ru"		"Доп. возможности*"
+	}
+	"Pipebomb launcher specific upgrades"
+	{
+		"ru"		"Улучшения для Гранатомёта"
+	}
+	"Launcher specific upgrades"
+	{
+		"ru"		"Улучшения для Ракетомёта"
+	}
+	"Melee specific upgrades"
+	{
+		"ru"		"Улучшения для Ближнего Боя"
+	}
+	"Charge upgrades"
+	{
+		"ru"		"Улучшения для Рывка"
+	}
+	"Weapon Specific upgrades"
+	{
+		"ru"		"Улучшения для Оружия"
+	}
+	"Gun specific upgrades"
+	{
+		"ru"		"Улучшения для Пушек"
+	}
+	"Laser weapon specific upgrades"
+	{
+		"ru"		"Улучшения для Лазерного Оружия"
+	}
+	"Short circuit specific upgrades"
+	{
+		"ru"		"Улучшения для Короткого замыкания"
+	}
+	"Building tech upgrades"
+	{
+		"ru"		"Улучшения для Строительной техники"
+	}
+	"Minigun specific upgrades"
+	{
+		"ru"		"Улучшения для Пулемёта"
+	}
+	"Lunchbox specific upgrades"
+	{
+		"ru"		"Улучшения для Лакомства"
+	}
+	"Syringegun specific upgrades"
+	{
+		"ru"		"Улучшения для Шприцемета"
+	}
+	"Medigun Specific upgrades"
+	{
+		"ru"		"Улучшения для Лечебной пушки"
+	}
+	"Flamethrower specific upgrades"
+	{
+		"ru"		"Улучшения для Огнемёта"
+	}
+	"Flaregun specific upgrades"
+	{
+		"ru"		"Улучшения для Ракетницы"
+	}
+	"Shotgun specific upgrades"
+	{
+		"ru"		"Улучшения для Дробовика"
+	}
+	"Scattergun specific upgrades"
+	{
+		"ru"		"Улучшения для Обреза"
+	}
+	"Handgun specific upgrades"
+	{
+		"ru"		"Улучшения для Пистолета"
+	}
+	"Cleaver specific upgrades"
+	{
+		"ru"		"Улучшения для Тесака"
+	}
+	"Jarate specific upgrades"
+	{
+		"ru"		"Улучшения для Банкате"
+	}
+	"Sniper specific upgrades"
+	{
+		"ru"		"Улучшения для Снайпера"
+	}
+	"Smg Specific upgrades"
+	{
+		"ru"		"Улучшения для доп. конкретного оружия"
+	}
+	"damage bonus HIDDEN(a)"
+	{
+		"ru"		"бонус к урону СКРЫТО"
+	}
+	"Mangler specific upgrades"
+	{
+		"ru"		"Улучшения для Линчевателя"
+	}
+	"centerfire projectile"
+	{
+		"ru"		"снаряд центрального огня"
+	}
+	"Flame Bonus"
+	{
+		"ru"		"Бонус пламени"
+	}
+	"recoil reduction"
+	{
+		"ru"		"уменьшение отдачи"
+	}
+	"quickfix ability"
+	{
+		"ru"		"способность быстроправа"
+	}
+	"instant switch speed"
+	{
+		"ru"		"мгновенная смена оружия"
+	}
+	"overheal penalty"
+	{
+		"ru"		"штраф сверхлечению"
+	}
+	"Laser specific upgrades"
+	{
+		"ru"		"Улучшения для Лазера"
+	}
+	"Specific upgrades"
+	{
+		"ru"		"Улучшения"
+	}
+	"Sapper upgrades"
+	{
+		"ru"		"Улучшения для Жучка"
+	}
+	"Buff banner specific upgrades"
+	{
+		"ru"		"Улучшения для Вдохновляющего знамя"
+	}
+	"Parachute Upgrades"
+	{
+		"ru"		"Улучшения парашюта"
+	}
+	"Wrangler upgrades"
+	{
+		"ru"		"Улучшения поводыря"
+	}
+	"Grenade Launcher specific upgrades"
+	{
+		"ru"		"Особые улучшения для гранатомёта"
+	}
+	"grenade"
+	{
+		"ru"		"граната"
+	}
+
+	"medigun charge is heals"
+	{
+		"ru"		"заряд лечебной пушки лечит"
+	}
+	"stun midair (on ground)"
+	{
+		"ru"		"оглушить в воздухе (на земле)"
+	}
+	"engineer rage on dmg"
+	{
+		"ru"		"гнев инженера при получении урона"
+	}
+	"Snare effect on hit"
+	{
+		"ru"		"Эффект замедления при ударе"
+	}
+	"sentry build rate"
+	{
+		"ru"		"скорость постройки турели"
+	}
+	"rj air bombardment"
+	{
+		"ru"		"rj воздушная бомбардировка"
+	}
+	"CARD: damage bonus"
+	{
+		"ru"		"КАРТА: бонус к урону"
+	}
+	"dmg taken increased"
+	{
+		"ru"		"полученный урон увеличен"
+	}
+	"dmg taken from bullets increased"
+	{
+		"ru"		"урон от пуль увеличен"
+	}
+	"dmg taken from blast increased"
+	{
+		"ru"		"урон от взрыва увеличен"
+	}
+	"dmg taken from crit increased"
+	{
+		"ru"		"урон от критов увеличен"
+	}
+	"dmg taken from fire increased"
+	{
+		"ru"		"урон от огня увеличен"
+	}
+	"Switch buff type"
+	{
+		"ru"		"Сменить тип усиления"
+	}
+	"override projectile type (B)"
+	{
+		"ru"		"переопределение типа снаряда (B)"
+	}
+	"override projectile type (F)"
+	{
+		"ru"		"переопределение типа снаряда (F)"
+	}
+	"override projectile type (R)"
+	{
+		"ru"		"переопределение типа снаряда (R)"
+	}
+	"override projectile type (CA)"
+	{
+		"ru"		"переопределение типа снаряда (CA)"
+	}
+	"mod crit while airborne"
+	{
+		"ru"		"мод крит в воздухе"
+	}
+	"blast dmg to self decreased"
+	{
+		"ru"		"урон от взрыва по себе уменьшен"
+	}
+	"hp scales move speed"
+	{
+		"ru"		"здоровье влияет на скорость передвижения"
+	}
+	"percent of hp healed on kill"
+	{
+		"ru"		"процент здоровья, восстанавливаемого при убийстве"
+	}
+	"mod see enemy health"
+	{
+		"ru"		"мод видеть здоровье врага"
+	}
+	"override projectile type (MA)"
+	{
+		"ru"		"переопределение типа снаряда (MA)"
+	}
+	"jarate backstabber"
+	{
+		"ru"		"эффект банкате по закалывающему со спины"
+	}
+	"increased control in air"
+	{
+		"ru"		"повышенный контроль в воздухе"
+	}
+	"immunity to afterburn"
+	{
+		"ru"		"невосприимчивость к догоранию"
+	}
+	"clip size bonus (G)"
+	{
+		"ru"		"бонус размера обоймы (G)"
+	}
+	"heal on hit (Ω)"
+	{
+		"ru"		"здоровье при попадании (Ω)"
+	}
+	"Grapple Upgrades"
+	{
+		"ru"		"Улучшения крюка"
+	}
+	"bottle"
+	{
+		"ru"		"бутылка"
+	}
+	"Canteen Upgrades
+	{
+		"ru"		"Улучшения фляги"
+	}
+	"ubercharge"
+	{
+		"ru"		"убер-заряд"
+	}
+	"powerup duration"
+	{
+		"ru"		"продолжительность бонуса"
+	}
+	"KS idle effect"
+	{
+		"ru"		"KS обычный эффект"
+	}
+	"unusual - flying bits"
+	{
+		"ru"		"необычное - летающие осколки"
+	}
+	"unusual - nemesis burst"
+	{
+		"ru"		"необычное - взрыв возмездия"
+	}
+	"unusual - community sparkle"
+	{
+		"ru"		"необычное - сияние от пользы обществу"
+	}
+	"unusual - holy glow"
+	{
+		"ru"		"необычное - святая аура"
+	}
+	"unusual - green confetti"
+	{
+		"ru"		"необычное - зелёное конфетти"
+	}
+	"unusual - purple confetti"
+	{
+		"ru"		"необычное - пурпурное конфетти"
+	}
+	"unusual - haunted ghosts"
+	{
+		"ru"		"необычное - назойливые привидения"
+	}
+	"unusual - green energy"
+	{
+		"ru"		"необычное - зелёное свечение"
+	}
+	"unusual - purple energy"
+	{
+		"ru"		"необычное - пурпурное свечение"
+	}
+	"unusual - tf logo"
+	{
+		"ru"		"необычное - логотип tf"
+	}
+	"unusual - massed flies"
+	{
+		"ru"		"необычное - туча мух"
+	}
+	"unusual - burning flames"
+	{
+		"ru"		"необычное - язычки пламени"
+	}
+	"unusual - scorching flames"
+	{
+		"ru"		"необычное - опаляющее пламя"
+	}
+	"unusual - searing plasma"
+	{
+		"ru"		"необычное - выжигающая плазма"
+	}
+	"unusual - vivid plasma"
+	{
+		"ru"		"необычное - яркая плазма"
+	}
+	"unusual - sunbeams"
+	{
+		"ru"		"необычное - солнечные лучи"
+	}
+	"unusual - peace sign"
+	{
+		"ru"		"необычное - знак мира"
+	}
+	"unusual - heart"
+	{
+		"ru"		"необычное - сердце"
+	}
+	"unusual - storm"
+	{
+		"ru"		"необычное - буря"
+	}
+	"unusual - orbiting fire"
+	{
+		"ru"		"необычное - огненный шар"
+	}
+	"unusual - kill-a-watt"
+	{
+		"ru"		"необычное - уби-ватт"
+	}
+	"unusual - terror watt"
+	{
+		"ru"		"необычное - жутко-ватт"
+	}
+	"unusual - cloud 9"
+	{
+		"ru"		"необычное - седьмое небо"
+	}
+	"unusual - aces high"
+	{
+		"ru"		"необычное - козырные тузы"
+	}
+	"unusual - dead presidents"
+	{
+		"ru"		"необычное - мёртвые президенты"
+	}
+	"unusual - miami lights"
+	{
+		"ru"		"необычное - светящийся майами"
+	}
+	"unusual - disco beat down"
+	{
+		"ru"		"необычное - ритмы диско"
+	}
+	"unusual - phosphorous"
+	{
+		"ru"		"необычное - фосфористый"
+	}
+	"unusual - suplhurous"
+	{
+		"ru"		"необычное - сернистый"
+	}
+	"unusual - overclocked"
+	{
+		"ru"		"необычное - разогнанный процессор"
+	}
+	"unusual - electrostatic"
+	{
+		"ru"		"необычное - статическое электричество"
+	}
+	"unusual - power surge"
+	{
+		"ru"		"необычное - скачок напряжения"
+	}
+	"unusual - time warp"
+	{
+		"ru"		"необычное - временной разлом"
+	}
+	"unusual - green black hole"
+	{
+		"ru"		"необычное - чёрно-зелёная дыра"
+	}
+	"unusual - arcana"
+	{
+		"ru"		"необычное - загадки"
+	}
+	"unusual - spellbound"
+	{
+		"ru"		"необычное - заклятье"
+	}
+	"unusual - chiroptera venenata"
+	{
+		"ru"		"необычное - ядовитус рукокрылус"
+	}
+	"pro KS"
+	{
+		"ru"		"Профессиональный убийца"
+	}
+	"crit_dmg_falloff"
+	{
+		"ru"		"падение критического урона"
+	}
+	"Special Effects"
+	{
+		"ru"		"Специальные эффекты"
+	}
+	"unusual effect"
+	{
+		"ru"		"необычные эффекты"
+	}
+	"turn to gold"
+	{
+		"ru"		"превращает в золото"
+	}
+	"a color similar to slate"
+	{
+		"ru"		"цвет похож на сланец"
+	}
+	"rocket launch impulse"
+	{
+		"ru"		"импульс запуска ракеты"
+	}
+	"Halloween pumpkin explosions"
+	{
+		"ru"		"Тыквенные взрывы на Хэллоуин"
+	}
+	"Halloween green flames"
+	{
+		"ru"		"Зелёное Хэллоуинское пламя"
+	}
+	"Resistance when eaten"
+	{
+		"ru"		"Сопротивление при поедании"
+	}
+	"Bouncing flames"
+	{
+		"ru"		"Прыгающее пламя"
+	}
+	"flame_speed"
+	{
+		"ru"		"Скорость огнемёта"
+	}
+	"thermal_thruster"
+	{
+		"ru"		"термическая_тяга"
+	}
+	"mod_maxhealth_drain_rate"
+	{
+		"ru"		"мод_макс._скорость_истощения_здоровья"
+	}
+	"fixed_shot_pattern"
+	{
+		"ru"		"фиксированная_схема_выстрела"
+	}
+	"item_meter_charge_rate"
+	{
+		"ru"		"скорость_зарадки_счётчика_предметов"
+	}
+	"thermal_thruster_air_launch"
+	{
+		"ru"		"воздушный_запуск_термической_тяги"
+	}
+	"falling_impact_radius_pushback"
+	{
+		"ru"		"сила_отбрасывания_на_этом_радиусе_удара_при_падении"
+	}
+	"falling_impact_radius_stun"
+	{
+		"ru"		"радиус_оглушение_при_падении"
+	}
+	"Compressed fire"
+	{
+		"ru"		"Сжатый огонь"
+	}
+	"dragons fury neutral properties"
+	{
+		"ru"		"нейтральные свойства ярости дракона"
+	}
+	"dragons fury positive properties"
+	{
+		"ru"		"положительные свойства ярости дракона"
+	}
+	"Fixes"
+	{
+		"ru"		"Исправляет"
+	}
+	"Maxhealth Regen"
+	{
+		"ru"		"Макс. уровень здор. регенерации"
+	}
+	"mult_item_meter_charge_rate"
+	{
+		"ru"		"скорость_зарадки_мульти_счётчика_предметов"
+	}
+	"engy sentry fire rate decreased"
+	{
+		"ru"		"снижена скорострельность турели"
+	}
+	"hand scale"
+	{
+		"ru"		"шкала руки"
+	}
+	"Flame Gravity"
+	{
+		"ru"		"Гравитация Пламя"
+	}
+	"bleeding duration(L)"
+	{
+		"ru"		"продолжительность кровотечения"
+	}
+	"afterburn dmg increased (H)"
+	{
+		"ru"		"урон догорания увеличен"
+	}
+	"explode_on_ignite"
+	{
+		"ru"		"Возгорание вызывает взрыв"
+	}
+	"airblast_destroy_projectile"
+	{
+		"ru"		"сжатый воздух уничтожает снаряд"
+	}//killstreaks
+	"KS idle effect - Team Shine"
+	{
+		"ru"		"KS обычный эффект - Командный блеск"
+	}
+	"KS idle effect - Deadly Daffodil"
+	{
+		"ru"		"KS обычный эффект - Надгробный нарцисс"
+	}
+	"KS idle effect - Manndarin"
+	{
+		"ru"		"KS обычный эффект - Манндарин"
+	}
+	"KS idle effect - Mean Green"
+	{
+		"ru"		"KS обычный эффект - Злобный зелёный"
+	}
+	"KS idle effect - Agonizing Emerald"
+	{
+		"ru"		"KS обычный эффект - Изумрудная зависть"
+	}
+	"KS idle effect - Villainous Violet"
+	{
+		"ru"		"KS обычный эффект - Лиловое злорадство"
+	}
+	"KS idle effect - Hot Rod"
+	{
+		"ru"		"KS обычный эффект - Горячая штучка"
+	}
+	"killstreak effect - Fire Horns"
+	{
+		"ru"		"эффект серии убийств - Огненные рога"
+	}
+	"killstreak effect - Cerebral Discharge"
+	{
+		"ru"		"эффект серии убийств - Мозговой разряд"
+	}
+	"killstreak effect - Tornado"
+	{
+		"ru"		"эффект серии убийств - Торнадо"
+	}
+	"killstreak effect - Flames"
+	{
+		"ru"		"эффект серии убийств - Пламя"
+	}
+	"killstreak effect - Singularity"
+	{
+		"ru"		"эффект серии убийств - Сингулярность"
+	}
+	"killstreak effect - Incinerator"
+	{
+		"ru"		"эффект серии убийств - Кремирование"
+	}
+	"killstreak effect - Hypno-Beam"
+	{
+		"ru"		"эффект серии убийств - Гипнолуч"
+	}
+	"flame speed bonus"
+	{
+		"ru"		"бонус к скорости пламени"
+	}
+	"Damage SPECIAL"
+	{
+		"ru"		"Особый урон++"
+	}
+	"Higher Voltage"
+	{
+		"ru"		"Высокое напряжение"
+	}
+	"minicrit_boost_charge_rate"
+	{
+		"ru"		"скорость_заряда_миникрита"
+	}
+	"minicrit_boost_when_charged"
+	{
+		"ru"		"миникрит_при_зарядке"
+	}
+	"Cleaners Carbine"
+	{
+		"ru"		"Карабин Чистильщика"
+	}
+	"grenade no spin"
+	{
+		"ru"		"граната без вращения"
+	}
+	"medigun fire resist deployed"
+	{
+		"ru"		"лечебная пушка сопротивление огню при развёртывании"
+	}
+	"medigun bullet resist deployed"
+	{
+		"ru"		"лечебная пушка сопротивление пулям при развёртывании"
+	}
+	"medigun blast resist deployed"
+	{
+		"ru"		"лечебная пушка сопротивление взрывам при развёртывании"
+	}
+	"Ball Upgrades"
+	{
+		"ru"		"Улучшения мяча"
+	}
+	"Rocket Launcher"
+	{
+		"ru"		"Ракетомёт"
+	}
+	"Jumper"
+	{
+		"ru"		"Прыгун"
+	}
+	"mod bat launches ornaments"
+	{
+		"ru"		"мод бита запускает украшения"
+	}
+	"mod bat launches balls"
+	{
+		"ru"		"мод бита запускает шары"
+	}
+	"Siege Charge"
+	{
+		"ru"		"Осадный заряд"
+	}
+	"fuse bonus"
+	{
+		"ru"		"бонус к фетилю"
+	}
+	"patient overheal bonus"
+	{
+		"ru"		"бонус сверхлечения пациента"
+	}
+	"full charge turn control"
+	{
+		"ru"		"полный контроль поворота заряда"
+	}
+	"Airblast Upgrades"
+	{
+		"ru"		"Улучшения сжатого воздуха"
+	}
+	"aoe_deflection"
+	{
+		"ru"		"отклонение_урона_по_области"
+	}
+	"mod_mark_attacker_for_death"
+	{
+		"ru"		"мод_отметка_смерти_на_атакующем"
+	}
+	"Blast radius increased"
+	{
+		"ru"		"Радиус взрыва увеличен"
+	}
+	"dragons fury negative properties"
+	{
+		"ru"		"отрицательные свойства ярости дракона"
+	}
+	"Flame Size"
+	{
+		"ru"		"Размер пламени"
+	}
+	"lunchbox healing decreased"
+	{
+		"ru"		"исцеление от лакомство увеличено"
+	}
+	"Special effects"
+	{
+		"ru"		"Специальные эффекты"
+	}
+	"Bigger Flames (not hitbox)"
+	{
+		"ru"		"Большое пламя (не хитбокс)"
+	}
+	"Headshots"
+	{
+		"ru"		"Выстрелы в голову"
+	}
+	"special effects"
+	{
+		"ru"		"Специальные эффекты"
+	}
+	"mod rage damage boost(L)"
+	{
+		"ru"		"мод увеличение урона ярости(L)"
+	}
+	"generate rage on damage"
+	{
+		"ru"		"восполнение ярости при нанесении урона"
+	}
+	"Projectile Upgrades"
+	{
+		"ru"		"Улучшения снарядов"
+	}
+	"Projectile Specific Upgrades"
+	{
+		"ru"		"Особые улучшения снарядов"
+	}
+	"a manns mint"
+	{
+		"ru"		"мята манна"
+	}
+	"a distinctive lack of hue"
+	{
+		"ru"		"острая нехватка цвета"
+	}
+	"a deep commitment to purp"
+	{
+		"ru"		"фиолетовая зависимость"
+	}
+	"auto fires full clip all at once"
+	{
+		"ru"		"автоматически выстреливает все обоймы сразу"
+	}
+	"afterburn immunity"
+	{
+		"ru"		"иммунитет к догоранию"
+	}
+	"extra dmg taken from bullets reduced"
+	{
+		"ru"		"доп. урон от пуль уменьшен"
+	}
+	"increased air control"
+	{
+		"ru"		"повышенный контроль в воздухе"
+	}
+	"Rocket Upgrades"
+	{
+		"ru"		"Улучшения ракеты"
+	}
+	"cannot disguise"
+	{
+		"ru"		"нельзя замаскироваться"
+	}
+	"healing mastery"
+	{
+		"ru"		"мастерство исцеления"
+	}
+	"switch buff banner"
+	{
+		"ru"		"переключить эффект баннера"
+	}
+	"damage bonus(L)"
+	{
+		"ru"		"бонус к урону+"
+	}
+	"damage bonus(H)"
+	{
+		"ru"		"бонус к урону+++"
+	}
+	"damage bonus(IS)"
+	{
+		"ru"		"бонус к урону++++"
+	}
+	"item style override"
+	{
+		"ru"		"переопределение стиля предмета"
+	}
+	"is australium item"
+	{
+		"ru"		"из австралия"
+	}
+	"Austrailium"
+	{
+		"ru"		"Австралий"
+	}
+	"grenades shatter"
+	{
+		"ru"		"гранаты разлетаются"
+	}
+	"energy weapon penetration"
+	{
+		"ru"		"энергетическое оружие пробивает насквозь"
+	}
+	"self mark for death"
+	{
+		"ru"		"метка смерти на себе"
+	}
+	"spunup_push_force_immunity"
+	{
+		"ru"		"иммунитет_к_силе_раскрутки"
+	}
+	"Army of not Many(en)"
+	{
+		"ru"		"Армия немногих(en)"
+	}
+	"sniper only fire zoomed"
+	{
+		"ru"		"снайпер стреляет только при прицеливании"
+	}
+	"Blitz Uber"
+	{
+		"ru"		"Блиц-Убер"
+	}
+	"blast radius increased (F)"
+	{
+		"ru"		"радиус взрыва увеличен (F)"
+	}
+	"dmg bonus while half alive"
+	{
+		"ru"		"бонус к урону пока полужив"
+	}
+	"fish damage override"
+	{
+		"ru"		"переопределение урона рыбой"
+	}
+	"set weapon mode"
+	{
+		"ru"		"установить режим оружия"
+	}
+	"distortion_trail"
+	{
+		"ru"		"след_искажения"
+	}
+	"sniper fires tracer"
+	{
+		"ru"		"снайпер стреляет маячком"
+	}
+	"mod bat launches ornaments"
+	{
+		"ru"		"мод бита запускает украшения"
+	}
+	"Ball Upgrades"
+	{
+		"ru"		"Улучшения мяча"
+	}
+	"medigun boost"
+	{
+		"ru"		"усиление лечебной пушки"
+	}
+	"medigun outline uber"
+	{
+		"ru"		"лечебная пушка показывает контуры при убере"
+	}
+	"Army of not Many(en)"
+	{
+		"ru"		"Армия немногих(en)"
+	}
+	"armor piercing damage(mangler)"
+	{
+		"ru"		"бронебойный урон+++"
+	}
+	"dmg bonus vs nonburning"
+	{
+		"ru"		"бонус к урону против негорящих"
+	}
+	"killstreak tier"
+	{
+		"ru"		"уровень серии убийств"
+	}
+	"killstreak idleeffect"
+	{
+		"ru"		"обычный эффект серии убийств"
+	}
+	"killstreak effect"
+	{
+		"ru"		"эффект серии убийств"
+	}
+	"is_festive"
+	{
+		"ru"		"праздничный"
+	}
+	"Extra damage bonus"
+	{
+		"ru"		"Бонус к доп. урону"
+	}
+	"tmp bonus dmg"
+	{
+		"ru"		"бонусный урон к tmp"
+	}
+	"blast radius increased (C)"
+	{
+		"ru"		"радиус взрыва увеличен (C)"
+	}
+	"Damage bonus vs player"
+	{
+		"ru"		"Урон против игрока++"
+	}
+	"Damage bonus vs player (C)"
+	{
+		"ru"		"Бонусный урон против игрока (C)"
+	}
+	"allowed in medieval mode"
+	{
+		"ru"		"разрешено в средневековье"
+	}
+	"extra heal on hit"
+	{
+		"ru"		"доп. лечение при попадании"
+	}
+	"shoots multirockets"
+	{
+		"ru"		"выстреливает несколько ракет"
+	}
+	"bouncing proj"
+	{
+		"ru"		"отскакивающие снаряды"
+	}
+	"armor piercing damage"
+	{
+		"ru"		"множитель урона"
+	}
+	"dmg from melee reduced(S)"
+	{
+		"ru"		"урон от рукопашного боя уменьшен(S)"
+	}
+	"dmg from melee reduced(E)"
+	{
+		"ru"		"урон от рукопашного боя уменьшен(E)"
+	}
+	"dmg taken from fire reduced(S)"
+	{
+		"ru"		"урон от огня уменьшен"
+	}
+	"dmg taken from crit reduced(S)"
+	{
+		"ru"		"урон от крита уменьшен"
+	}
+	"dmg taken from blast reduced(S)"
+	{
+		"ru"		"Урон от взрыва уменьшен"
+	}
+	"dmg taken from bullets reduced(S)"
+	{
+		"ru"		"урон от пуль уменьшен"
+	}
+	"dmg from melee reduced(S)"
+	{
+		"ru"		"урон от рукопашного боя уменьшен"
+	}
+	"dmg from sentry reduced(S)"
+	{
+		"ru"		"урон от турели уменьшен"
+	}
+	"dmg from ranged reduced(S)"
+	{
+		"ru"		"урон от дальнего боя уменьшен"
+	}
+	"dmg taken reduced(S)"
+	{
+		"ru"		"полученный урон уменьшен"
+	}
+	"damage bonus SPECIAL"
+	{
+		"ru"		"урон ОСОБЫЙ++"
+	}
+	"Crit Chance(true)"
+	{
+		"ru"		"Шанс крита"
+	}
+	"damage bonus"
+	{
+		"ru"		"урон++"
+	}
+	"clip size penalty"
+	{
+		"ru"		"штраф обоймы"
+	}
+	"move speed penalty(s)"
+	{
+		"ru"		"штраф скорости передвижения"
+	}
+	"clip size bonus"
+	{
+		"ru"		"размер обоймы++"
+	}
+	"clip size bonus (E)"
+	{
+		"ru"		"бонусовый размер обоймы"
+	}
+	"weapon burn dmg reduced"
+	{
+		"ru"		"урон от огня оружия уменьшен"
+	}
+	"Assault Weapon(CB)"
+	{
+		"ru"		"Штурмовое оружие"
+	}
+	"generate rage on heal"
+	{
+		"ru"		"Щит медика"
+	}
+	"increased air control"
+	{
+		"ru"		"повышенный контроль в воздухе"
+	}
+	"Medic Shield Upgrades"
+	{
+		"ru"		"Улучшения щита медика"
+	}
+	"increase buff duration(shield)"
+	{
+		"ru"		"Длительность щита медика"
+	}
+	"overheal fill rate reduced"
+	{
+		"ru"		"скорость заполнения сверхлечения снижена"
+	}
+	"holster animation time"
+	{
+		"ru"		"время анимации смены оружия"
+	}
+	"faster reload rate(scorchshot)"
+	{
+		"ru"		"бонус к скорости перезарядки"
+	}
+	"reload rate bonus"
+	{
+		"ru"		"бонус к скорости перезарядки"
+	}
+	"test"
+	{
+		"ru"		"тест"
+	}
+	"Grenades shatter on contact"
+	{
+		"ru"		"Гранаты разбиваются при контакте"
+	}
+	"Shield damage bonus"
+	{
+		"ru"		"Бонус к урону щитом"
+	}
+	"revolver is secondary"
+	{
+		"ru"		"револьвер вторичный"
+	}
+	"0"
+	{
+		"ru"		"недопустимый атрибут"
+	}
+	"flame_spread_degree"
+	{
+		"ru"		"степень_распространения_пламени"
+	}
+	"weapon burn time reduced"
+	{
+		"ru"		"время горения у оружия уменьшено"
+	}
+	"ubercharge rate penalty"
+	{
+		"ru"		"штраф накопления убер-заряда"
+	}
+	"Damage bonus vs player x"
+	{
+		"ru"		"Бонус к урону против игрока++"
+	}
+	"Uber -> Heal Rate"
+	{
+		"ru"		"Uber -> Скорость лечения"
+	}
+	"sniper charge per sec(S)"
+	{
+		"ru"		"снайперский заряд в секунду"
+	}
+	"clip size bonus (B)"
+	{
+		"ru"		"бонусовый размер обоймы (B)"
+	}
+	"fire rate penalty"
+	{
+		"ru"		"штраф скоростр-ти"
+	}
+	"fire rate bonus"
+	{
+		"ru"		"бонус скоростр-ти"
+	}
+	"heal rate bonus"
+	{
+		"ru"		"бонус скорости лечения"
+	}
+	"ubercharge rate bonus"
+	{
+		"ru"		"бонус скорости накопления убер-заряда"
+	}
+	"overheal bonus"
+	{
+		"ru"		"бонус сверхлечения"
+	}
+	"overheal decay bonus"
+	{
+		"ru"		"бонус длительности сверхлечения"
+	}
+	"crit mod disabled"
+	{
+		"ru"		"режим критов отключен"
+	}
+	"heal on hit for rapidfire"
+	{
+		"ru"		"лечение при попадании"
+	}
+	"stickybomb_charge_damage_increase"
+	{
+		"ru"		"урон бомбы-липучки уменьшен от заряда"
+	}
+	"Sentry Resistance"
+	{
+		"ru"		"Сопротивление турели"
+	}
+	"fire rate bonus(throw)"
+	{
+		"ru"		"бонус к скорострельности"
+	}
+	"fire rate bonus(nice)"
+	{
+		"ru"		"бонус к скорострельности"
+	}
+	"Projectile speed increased(syringe)"
+	{
+		"ru"		"Скорость снаряда увеличена"
+	}
+	"Change Projectile to Bullets"
+	{
+		"ru"		"Изменить снаряд на пули"
+	}
+	"sniper only fire zoomed"
+	{
+		"ru"		"снайпер стреляет только при прицеливании"
+	}
+	"stickybomb charge rate"
+	{
+		"ru"		"скорость заряда бомбы-липучки"
+	}
+	"heal on hit (slowfire)"
+	{
+		"ru"		"лечение при попадании (медленный огонь)"
+	}
+	"Add uber on hit"
+	{
+		"ru"		"Убер-заряд при попадании"
+	}
+	"crit vs burning players"
+	{
+		"ru"		"крит против горящих игроков"
+	}
+	"mod flamethrower back crit"
+	{
+		"ru"		"мод криты при атаке со спины огнемётом"
+	}
+	"max health additive bonus"
+	{
+		"ru"		"бонус доп. макс. здоровье"
+	}
+	"max health additive bonus (H)"
+	{
+		"ru"		"бонус доп. макс. здоровье (H)"
+	}
+	"critboost on kill"
+	{
+		"ru"		"бонусные криты при убийстве"
+	}
+	"charge time decreased"
+	{
+		"ru"		"время заряда уменьшено"
+	}
+	"set cloak is feign death"
+	{
+		"ru"		"маскировка во время стрельбы турели"
+	}
+	"cloak consume rate"
+	{
+		"ru"		"скорость потребления невидимости"
+	}
+	"mult cloak meter regen rate"
+	{
+		"ru"		"множ. скорости восстановления невидимости"
+	}
+	"cloak rate"
+	{
+		"ru"		"скорость входа в невидимость"
+	}
+	"decloak rate"
+	{
+		"ru"		"скорость выхода из невидимости"
+	}
+	"upgrade rate increase"
+	{
+		"ru"		"повышение скорости улучшения"
+	}
+	"Charge speed multiplier"
+	{
+		"ru"		"Множитель скорости заряда"
+	}
+	"Building Health Regen"
+	{
+		"ru"		"Регенерация прочности построек"
+	}
+	"Sentry Ammo Regeneration"
+	{
+		"ru"		"Регенерация боеприпасов в турелях"
+	}
+	"spread penalty"
+	{
+		"ru"		"штраф разброса"
+	}
+	"zoom speed mod disabled"
+	{
+		"ru"		"мод скорости прицеливания отключен"
+	}
+	"sniper charge per sec"
+	{
+		"ru"		"кол-во заряда в секунду"
+	}
+	"scattergun no reload single"
+	{
+		"ru"		"одноразовый обрез без перезарядки"
+	}
+	"scattergun has knockback"
+	{
+		"ru"		"обрез имеет отдачу"
+	}
+	"bullets per shot bonus"
+	{
+		"ru"		"бонусное количество пуль за выстрел"
+	}
+	"bullets per shot bonus (single)"
+	{
+		"ru"		"бонусное количество пуль за выстрел (один)"
+	}
+	"absorb damage while cloaked"
+	{
+		"ru"		"поглощение урона во время маскировки"
+	}
+	"revolver use hit locations"
+	{
+		"ru"		"место попадания оружия"
+	}
+	"backstab shield"
+	{
+		"ru"		"щит от удара в спину"
+	}
+	"fire retardant"
+	{
+		"ru"		"огнеупорность"
+	}
+	"move speed"
+	{
+		"ru"		"скорость передвижения"
+	}
+	"health regen"
+	{
+		"ru"		"рег.здоровья"
+	}
+	"self dmg push force increased"
+	{
+		"ru"		"self dmg push force increased"
+	}
+	"dmg taken from fire reduced"
+	{
+		"ru"		"полученный урон от огня уменьшен"
+	}
+	"dmg taken from crit reduced"
+	{
+		"ru"		"полученный урон от критов уменьшен"
+	}
+	"dmg taken from blast reduced"
+	{
+		"ru"		"полученный урон от взрыва уменьшен"
+	}
+	"dmg taken from bullets reduced"
+	{
+		"ru"		"полученный урон от пуль уменьшен"
+	}
+	"dmg from ranged reduced"
+	{
+		"ru"		"полученный урон в дальнем бою уменьшен"
+	}
+	"dmg from sentry reduced"
+	{
+		"ru"		"полученный урон от турели уменьшен"
+	}
+	"dmg from melee reduced"
+	{
+		"ru"		"полученный урон от ближнего боя уменьшен"
+	}
+	"dmg taken reduced"
+	{
+		"ru"		"полученный урон уменьшен"
+	}
+	"health from healers increased"
+	{
+		"ru"		"лечение от медиков увеличено"
+	}
+	"afterburn dmg increased"
+	{
+		"ru"		"урон от догорания увеличен"
+	}
+	"afterburn dmg increased (E)"
+	{
+		"ru"		"урон от догорания увеличен (E)"
+	}
+	"afterburn time increased"
+	{
+		"ru"		"время догорания увеличено"
+	}
+	"generate shield on heal"
+	{
+		"ru"		"генерировать щит при исцелении"
+	}
+	"Damage bonus vs player (S)"
+	{
+		"ru"		"Бонус к урону против игрока (S)"
+	}
+	"Cow Mangler Projectile"
+	{
+		"ru"		"Снаряд линчевателя скота"
+	}
+	"increased control in air (S)"
+	{
+		"ru"		"повышенный контроль в воздухе (S)"
+	}
+	"sniper no headshots"
+	{
+		"ru"		"снайпер без выстрелов в голову"
+	}
+	"max ammo"
+	{
+		"ru"		"макс.кол-во боеприпасов"
+	}
+	"maxammo primary increased"
+	{
+		"ru"		"макс.кол-во боеприпасов основного оружия увеличено"
+	}
+	"maxammo primary increased (S)"
+	{
+		"ru"		"макс.кол-во боеприпасов основного оружия уменьшено (S)"
+	}
+	"maxammo primary reduced"
+	{
+		"ru"		"макс.кол-во боеприпасов основного оружия уменьшено"
+	}
+	"maxammo secondary increased"
+	{
+		"ru"		"макс.кол-во боеприпасов доп. оружия увеличено"
+	}
+	"maxammo secondary increased (S)"
+	{
+		"ru"		"макс.кол-во боеприпасов доп. оружия увеличено (S)"
+	}
+	"maxammo secondary reduced"
+	{
+		"ru"		"макс.кол-во боеприпасов доп. оружия уменьшено"
+	}
+	"maxammo metal increased"
+	{
+		"ru"		"макс.кол-во металла увеличено"
+	}
+	"maxammo metal reduced"
+	{
+		"ru"		"макс.кол-во металла уменьшено"
+	}
+	"Condensed Laser"
+	{
+		"ru"		"Конденсированный лазер"
+	}
+	"self dmg reduced"
+	{
+		"ru"		"урон по себе уменьшен"
+	}
+	"Clip Size Bonus++"
+	{
+		"ru"		"Бонус к размеру обоймы++"
+	}
+	"melee range++"
+	{
+		"ru"		"дальность удара++"
+	}
+	"damage bonus vs burning"
+	{
+		"ru"		"бонус к урону против горящих"
+	}
+	"minigun spinup time increased"
+	{
+		"ru"		"скорость раскрутки пулемёта увеличена"
+	}
+	"minigun spinup time decreased"
+	{
+		"ru"		"скорость раскрутки пулемёта уменьшена"
+	}
+	"max pipebombs increased"
+	{
+		"ru"		"макс. кол-во снарядов увеличено"
+	}
+	"Construction rate increased"
+	{
+		"ru"		"Скорость строительства увеличена"
+	}
+	"Build rate bonus"
+	{
+		"ru"		"Бонус скорости строительства"
+	}
+	"Repair rate increased"
+	{
+		"ru"		"Скорость починки увеличена"
+	}
+	"Reload time increased"
+	{
+		"ru"		"Время перезарядки увеличена"
+	}
+	"selfdmg on hit for rapidfire"
+	{
+		"ru"		"урон себе при попадании для быстрого огня"
+	}
+	"blast radius increased"
+	{
+		"ru"		"Радиус взрыва увеличен"
+	}
+	"Larger arrows"
+	{
+		"ru"		"Большие стрелы"
+	}
+	"Blast radius increased (J)"
+	{
+		"ru"		"Радиус взрыва увеличен"
+	}
+	"Heavy Cleaver"
+	{
+		"ru"		"Тяжёлый тесак"
+	}
+	"Buy Action Slot for 1000$:"
+	{
+		"ru"		"Купить слот действия за 1000$:"
+	}
+	"armor piercing damage(SB)"
+	{
+		"ru"		"бронебойный урон+++++"
+	}
+	"deploy time decreased(SB)"
+	{
+		"ru"		"время развёртывания уменьшено(SB)"
+	}
+	"Upgrade Action Slot"
+	{
+		"ru"		"Улучшить слот действия"
+	}
+	"Buy Action Slot"
+	{
+		"ru"		"Купить слот действия"
+	}
+	"Blast radius decreased"
+	{
+		"ru"		"Радиус взрыва уменьшен"
+	}
+	"Projectile speed increased"
+	{
+		"ru"		"Ск. снаряда уменьшена"
+	}
+	"Projectile force increased"
+	{
+		"ru"		"Сила снаряда увеличена"
+	}
+	"Projectile speed decreased"
+	{
+		"ru"		"Ск. снаряда уменьшена"
+	}
+	"weapon spread bonus"
+	{
+		"ru"		"бонусный разброс для оружия"
+	}
+	"health from packs increased"
+	{
+		"ru"		"лечение от аптечек увеличено"
+	}
+	"heal on hit for slowfire"
+	{
+		"ru"		"лечение при попадании для медленного огня"
+	}
+	"ammo regen"
+	{
+		"ru"		"рег.боеприпасов"
+	}
+	"metal regen"
+	{
+		"ru"		"рег.металла"
+	}
+	"mod mini-crit airborne"
+	{
+		"ru"		"мод мини-криты в воздухе"
+	}
+	"mod shovel damage boost"
+	{
+		"ru"		"мод увеличенный урон от лопаты"
+	}
+	"dmg falloff decreased"
+	{
+		"ru"		"урон от падения уменьшен"
+	}
+	"sticky detonate mode"
+	{
+		"ru"		"режим детонации бомб-липучек"
+	}
+	"stickies detonate stickies"
+	{
+		"ru"		"бомбы-липучки детонируют бомбы-липучки"
+	}
+	"mod wrench builds minisentry"
+	{
+		"ru"		"мод гаечный ключ строит мини-турель"
+	}
+	"max health additive penalty"
+	{
+		"ru"		"штраф доп. макс. здоровья"
+	}
+	"sticky arm time bonus"
+	{
+		"ru"		"бонус времени взрыва бомб-липучек"
+	}
+	"rocket jump damage reduction"
+	{
+		"ru"		"уменьшение урона от прыжка на ракете"
+	}
+	"mod sentry killed revenge"
+	{
+		"ru"		"мод месть убившей турели"
+	}
+	"building cost reduction"
+	{
+		"ru"		"уменьшение стои-сти строительста"
+	}
+	"bleeding duration"
+	{
+		"ru"		"продолж-сть кровотечения"
+	}
+	"disguise on backstab"
+	{
+		"ru"		"маскировка при ударе в спину"
+	}
+	"silent killer"
+	{
+		"ru"		"тихий убийца"
+	}
+	"disguise speed"
+	{
+		"ru"		"скорость в маскировке"
+	}
+	"disguise damage reduction"
+	{
+		"ru"		"уменьшение урона в маскировке"
+	}
+	"add cloak on kill"
+	{
+		"ru"		"дает невидимость при убийстве"
+	}
+	"quiet unstealth"
+	{
+		"ru"		"тихий выход из маскировки"
+	}
+	"flame size bonus"
+	{
+		"ru"		"бонус размера горения"
+	}
+	"flame life bonus"
+	{
+		"ru"		"бонус длит-ти горения"
+	}
+	"charged airblast"
+	{
+		"ru"		"заряженный сжатый воздух"
+	}
+	"flame_drag"
+	{
+		"ru"		"Тянущий Огнемёт"
+	}
+	"add cloak on hit"
+	{
+		"ru"		"дает невидимость при попадании"
+	}
+	"disguise no burn"
+	{
+		"ru"		"маскировка без горения"
+	}
+	"airblast cost decreased"
+	{
+		"ru"		"потребление сжатого воздуха снижено"
+	}
+	"flame ammopersec increased"
+	{
+		"ru"		"потребление топлива в секунду увеличено"
+	}
+	"flame ammopersec decreased"
+	{
+		"ru"		"потребление топлива в секунду снижено"
+	}
+	"no death from headshots"
+	{
+		"ru"		"нет смерти от выстрелов в голову(МПМ)"
+	}
+	"deploy time decreased"
+	{
+		"ru"		"время развёртывания уменьшено"
+	}
+	"minicrits become crits"
+	{
+		"ru"		"мини-криты становятся критами"
+	}
+	"heal on kill"
+	{
+		"ru"		"лечение при убийстве"
+	}
+	"no self blast dmg"
+	{
+		"ru"		"нет урона по себе от взрыва"
+	}
+	"slow enemy on hit major"
+	{
+		"ru"		"замедление врага при попадании мэйджора"
+	}
+	"aiming movespeed increased"
+	{
+		"ru"		"скорость при прицеливании увеличена"
+	}
+	"aiming movespeed decreased"
+	{
+		"ru"		"скорость при прицеливании уменьшена"
+	}
+	"charge movespeed increased"
+	{
+		"ru"		"увеличена скорость передвижения при рывке"
+	}
+	"preserve ubercharge"
+	{
+		"ru"		"сохранить убер-заряд"
+	}
+	"fires healing bolts"
+	{
+		"ru"		"выстреливает лечебными болтами"
+	}
+	"enables aoe heal"
+	{
+		"ru"		"включает лечение по области"
+	}
+	"gesture speed increase"
+	{
+		"ru"		"увеличение скорости насмешек"
+	}
+	"charge time increased"
+	{
+		"ru"		"время заряда увеличено"
+	}
+	"Set DamageType Ignite"
+	{
+		"ru"		"Установить ТипУрона Огня"
+	}
+	"minicrit vs burning player"
+	{
+		"ru"		"мини-криты против горящих игроков"
+	}
+	"kill eater"
+	{
+		"ru"		"пожиратель убийств"
+	}
+	"apply z velocity on damage"
+	{
+		"ru"		"применить z скорость при получении урона"
+	}
+	"apply look velocity on damage"
+	{
+		"ru"		"применить скорость взгляда при получении урона"
+	}
+	"sanguisuge"
+	{
+		"ru"		"sanguisuge"
+	}
+	"mark for death"
+	{
+		"ru"		"знак смерти"
+	}
+	"dmg bonus while half dead"
+	{
+		"ru"		"бонусный урон пока полуживой"
+	}
+	"mod medic killed revenge"
+	{
+		"ru"		"мод месть убившего медика"
+	}
+	"mult sniper charge after headshot"
+	{
+		"ru"		"множ. заряд снайпера после выстрела в голову"
+	}
+	"minigun no spin sounds"
+	{
+		"ru"		"пулемёт без звука раскрутки"
+	}
+	"ubercharge rate bonus for healer"
+	{
+		"ru"		"бонусное накопл. убер-заряда для медика"
+	}
+	"mod rage on hit bonus"
+	{
+		"ru"		"бонус мод ярость при попадании"
+	}
+	"Rage damage boost"
+	{
+		"ru"		"мод увеличение урона в ярости"
+	}
+	"accuracy scales damage"
+	{
+		"ru"		"точность на уровне урона"
+	}
+	"mult charge turn control"
+	{
+		"ru"		"множ. управляемости во время рывка"
+	}
+	"no charge impact range"
+	{
+		"ru"		"нет область удара рывка"
+	}
+	"charge impact damage increased"
+	{
+		"ru"		"урон рывка увеличен"
+	}
+	"charge recharge rate increased"
+	{
+		"ru"		"увеличена скорость восстановления"
+	}
+	"recharge rate"
+	{
+		"ru"		"скорость перезарядки"
+	}
+	"air dash count"
+	{
+		"ru"		"кол-во рывков в воздухе"
+	}
+	"speed buff ally"
+	{
+		"ru"		"усиление скоростью союзника"
+	}
+	"damage force reduction"
+	{
+		"ru"		"уменьшение силы уронв"
+	}
+	"airblast pushback scale"
+	{
+		"ru"		"шкала отталкивания сжатого воздуха"
+	}
+	"mult airblast refire time"
+	{
+		"ru"		"множ. перезарядки сжатого воздуха"
+	}
+	"ammo becomes health"
+	{
+		"ru"		"патроны становятся здоровьем"
+	}
+	"deflection size multiplier"
+	{
+		"ru"		"множитель размера изгиба"
+	}
+	"melee bounds multiplier"
+	{
+		"ru"		"множитель удара"
+	}
+	"melee range multiplier"
+	{
+		"ru"		"множитель дальности удара"
+	}
+	"see enemy health"
+	{
+		"ru"		"видно здоровье врага"
+	}
+	"powerup max charges"
+	{
+		"ru"		"макс. кол-во усиления"
+	}
+	"powerup duration"
+	{
+		"ru"		"длительность усиления"
+	}
+	"bidirectional teleport"
+	{
+		"ru"		"телепорт действует в обе стороны"
+	}
+	"effect bar recharge rate increased"
+	{
+		"ru"		"увеличена скорость перезарядки панели эффектов"
+	}
+	"override projectile type"
+	{
+		"ru"		"переопределение типа снаряда"
+	}
+	"engy building health bonus"
+	{
+		"ru"		"бонус прочности инженерных построек"
+	}
+	"Overhealer"
+	{
+		"ru"		"Сверхмедик"
+	}
+	"Doooooctor"
+	{
+		"ru"		"Доооооктор"
+	}
+	"ubercharge rate penalty"
+	{
+		"ru"		"штраф накопления убер-заряда"
+	}
+	"overheal fill rate bonus"
+	{
+		"ru"		"бонус к скорости заполнения сверхлечения"
+	}
+	"heal rate bonus(A)"
+	{
+		"ru"		"бонус к скорости лечения++"
+	}
+	"healing mastery"
+	{
+		"ru"		"Мастерство исцеления"
+	}
+	"20% fire immunity"
+	{
+		"ru"		"20 проц-ов огнестойкости"
+	}
+	"16 sec Buff Banner"
+	{
+		"ru"		"16 сек. Вдохновляющего знамени"
+	}
+	"16 sec Battalions Backup"
+	{
+		"ru"		"16 сек. Поддержки батальона"
+	}
+	"16 sec Concheror"
+	{
+		"ru"		"16 сек. Завоевателя"
+	}
+	"Shield Specific upgrades"
+	{
+		"ru"		"Особые улучшения щита"
+	}
+	"rocket specialist"
+	{
+		"ru"		"специалист по ракетам"
+	}
+	"engy sentry damage bonus"
+	{
+		"ru"		"бонусный урон турели инженера"
+	}
+	"sentry extra damage bonus"
+	{
+		"ru"		"доп. бонусный урон турели"
+	}
+	"no crit boost"
+	{
+		"ru"		"нет бонусных критов"
+	}
+	"+hand scale"
+	{
+		"ru"		"+шкала руки"
+	}
+	"-hand scale"
+	{
+		"ru"		"-шкала руки"
+	}
+	"hp regen"
+	{
+		"ru"		"регенерация здор."
+	}
+	"Phlog rage"
+	{
+		"ru"		"Ярость Флога"
+	}
+	"Phlogistinator"
+	{
+		"ru"		"Флогистинатор"
+	}
+	"Crit Chance"
+	{
+		"ru"		"Шанс крита"
+	}
+	"kill eater score type"
+	{
+		"ru"		"пожиратель убийств тип"
+	}
+	"kill eater score type 2"
+	{
+		"ru"		"пожиратель убийств тип 2"
+	}
+	"kill eater 2"
+	{
+		"ru"		"пожиратель убийств 2"
+	}
+	"sapper kills collect crits"
+	{
+		"ru"		"убийства жучком накапливают криты"
+	}
+	"mod ammo per shot"
+	{
+		"ru"		"мод боеприпасов за выстрел"
+	}
+	"sniper full charge damage bonus"
+	{
+		"ru"		"снайпер бонус урона при полном заряде"
+	}
+	"sniper penetrate players when charged"
+	{
+		"ru"		"снайпер пробивает насквозь игроков при полном заряде"
+	}
+	"uber duration bonus"
+	{
+		"ru"		"бонус длит-ть убер-заряда"
+	}
+	"Faster reload rate SPECIAL"
+	{
+		"ru"		"Высокая ск. перезарядки ОСОБЫЙ"
+	}
+	"faster reload rate"
+	{
+		"ru"		"высокая ск. перезарядки"
+	}
+	"faster reload rate (U)"
+	{
+		"ru"		"высокая ск. перезарядки (U)"
+	}
+	"robo sapper"
+	{
+		"ru"		"робо жучок"
+	}
+	"attack projectiles"
+	{
+		"ru"		"атака снарядов"
+	}
+	"jump height"
+	{
+		"ru"		"высота прыжка"
+	}
+	"airblast vulnerability multiplier"
+	{
+		"ru"		"множитель сжатого воздуха"
+	}
+	"reveal cloaked victim on hit"
+	{
+		"ru"		"выявить невидимую жертву при попадании"
+	}
+	"reveal disguised victim on hit"
+	{
+		"ru"		"выявить замаскированную жертву при попадании"
+	}
+	"engy sentry fire rate increased"
+	{
+		"ru"		"скоростр-ть турели инженера увеличена"
+	}
+	"engy sentry radius increased"
+	{
+		"ru"		"радиус турели инженера увеличен"
+	}
+	"engy dispenser radius increased"
+	{
+		"ru"		"радиус раздатчика инженера увеличен"
+	}
+	"engy disposable sentries"
+	{
+		"ru"		"одноразовые турели инженера"
+	}
+	"stun enemies wielding same weapon"
+	{
+		"ru"		"оглушение врагов, владеющих тем же оружием"
+	}
+	"airblast disabled"
+	{
+		"ru"		"сжатый воздух отключен"
+	}
+	"damage all connected"
+	{
+		"ru"		"урон весь связан"
+	}
+	"crit from behind"
+	{
+		"ru"		"криты при атаке сзади"
+	}
+	"extinguish earns revenge crits"
+	{
+		"ru"		"тушение дает криты мести"
+	}
+	"burn damage earns rage"
+	{
+		"ru"		"урон от ожога дает ярость"
+	}
+	"generate rage on damage"
+	{
+		"ru"		"генерирует ярость при нанесении урона"
+	}
+	"rage on kill"
+	{
+		"ru"		"ярость при убийстве"
+	}
+	"headshot damage increase"
+	{
+		"ru"		"увеличение урона в голову"
+	}
+	"fire rate bonus HIDDEN"
+	{
+		"ru"		"бонус скоростр-ти СКРЫТЫЙ"
+	}
+	"fire rate bonus (C)"
+	{
+		"ru"		"бонус скоростр-ти (C)"
+	}
+	"explosive sniper shot"
+	{
+		"ru"		"разрывной снайперский выстрел(МПМ)"
+	}
+	"explosive sniper shot(MVM)"
+	{
+		"ru"		"разрывной снайперский выстрел(МПМ)"
+	}
+	"no recoil"
+	{
+		"ru"		"без отдачи"
+	}
+	"afterburn time increased(N)"
+	{
+		"ru"		"время догорания увеличено"
+	}
+	"lose demo charge on damage when charging"
+	{
+		"ru"		"терет заряд при получении урона во время рывка"
+	}
+	"explosionfall"
+	{
+		"ru"		"Взрывной урон от падения"
+	}
+	"melee attack rate bonus (slow)"
+	{
+		"ru"		"бонус скорости атаки ближнего боя (медленный)"
+	}
+	"melee attack rate bonus"
+	{
+		"ru"		"бонус скорости атаки ближнего боя"
+	}
+	"melee attack rate penalty"
+	{
+		"ru"		"штраф скорости атаки ближнего боя"
+	}
+	"projectile penetration heavy"
+	{
+		"ru"		"тяжелое пробитие насквозь"
+	}
+	"projectile penetration"
+	{
+		"ru"		"пробитие насквозь"
+	}
+	"armor piercing"
+	{
+		"ru"		"пробивающий насквозь удар в спину"
+	}
+	"Hard Strings"
+	{
+		"ru"		"Жёсткие струны"
+	}
+	"damage penalty"
+	{
+		"ru"		"бронебойный урон"
+	}
+	"Thick Building Armor"
+	{
+		"ru"		"Толстая броня построек"
+	}
+	"cannot be backstabbed"
+	{
+		"ru"		"не может быть нанесён удар в спину"
+	}
+	"share consumable with patient"
+	{
+		"ru"		"поделиться предметом с пациентом"
+	}
+	"crit vs disguised players"
+	{
+		"ru"		"крит против замаскированных игроков"
+	}
+	"projectile spread angle penalty"
+	{
+		"ru"		"штраф угла разброса снаряда"
+	}
+	"auto fires full clip"
+	{
+		"ru"		"авто. выстрел при полной обойме"
+	}
+	"can overload"
+	{
+		"ru"		"может переполниться"
+	}
+	"hype resets on jump"
+	{
+		"ru"		"заряд сбрасывается при прыжке"
+	}
+	"clip size penalty HIDDEN"
+	{
+		"ru"		"штраф обоймы СКРЫТЫЙ"
+	}
+	"ring of fire while aiming"
+	{
+		"ru"		"огненное кольцо во время прицеливания"
+	}
+	"uses ammo while aiming"
+	{
+		"ru"		"прицеливается патронами"
+	}
+	"medigun charge is crit boost"
+	{
+		"ru"		"убер-заряд лечебной пушки - это криты"
+	}
+	"move speed (heavy)"
+	{
+		"ru"		"скорость передвижения (пулемётчик)"
+	}
+	"move speed penalty"
+	{
+		"ru"		"штраф для скорости передвижения"
+	}
+	"melee attack rate bonus (spy)"
+	{
+		"ru"		"бонус скорости атаки ближнего боя (шпион)"
+	}
+	"additionnal disposable sentries (mvm)"
+	{
+		"ru"		"доп. одноразовые турели (мпм)"
+	}
+	"multiple sentries"
+	{
+		"ru"		"несколько турелей"
+	}
+	"bullets per shot bonus (heavy)"
+	{
+		"ru"		"бонусное кол-во пуль за выстрел (пулемётчик)"
+	}
+	"increase buff duration"
+	{
+		"ru"		"увеличить длительность эффекта"
+	}
+	"cancel falling damage"
+	{
+		"ru"		"отменить урон от падения"
+	}
+	"set item tint"
+	{
+		"ru"		"установить оттенок предмета"
+	}
+	"blast radius increased (F)"
+	{
+		"ru"		"радиус взрыва увеличен (F)"
+	}
+	"weapon burn dmg increased (E)"
+	{
+		"ru"		"урон от огня оружия увеличен (E)"
+	}
+	"energy buff dmg taken multiplier"
+	{
+		"ru"		"множитель получаемого урона энергетического эффекта"
+	}
+	"lunchbox adds maxhealth bonus"
+	{
+		"ru"		"добавляет макс. уровень здоровья от лакомства"
+	}
+	"overheal decay disabled"
+	{
+		"ru"		"длительность сверхлечения отключена"
+	}
+	"honor bound"
+	{
+		"ru"		"оружие чести"
+	}
+	"jarate duration"
+	{
+		"ru"		"длительность банкате"
+	}
+	"damage causes airblast"
+	{
+		"ru"		"урон вызывает выстрел сжатым воздухом"
+	}
+	"use large smoke explosion"
+	{
+		"ru"		"использует большой взрыв дыма"
+	}
+	"scattergun knockback mult"
+	{
+		"ru"		"отдача обреза множитель"
+	}
+	"engineer building teleporting pickup"
+	{
+		"ru"		"engineer building teleporting pickup"
+	}
+	"damage applies to sappers"
+	{
+		"ru"		"урон наносится жучкам"
+	}
+	"sapper damage bonus"
+	{
+		"ru"		"бонусный урон жучка"
+	}
+	"sapper health bonus"
+	{
+		"ru"		"бонус здоровья жучка"
+	}
+	"sapper damage leaches health"
+	{
+		"ru"		"урон жучка выщелачивает здоровье"
+	}	
+	
+	"energy weapon no ammo"
+	{
+		"ru"		"энергетическое оружие без патронов"
+	}		
+	"mod ammo per shot missed DISPLAY ONLY"
+	{
+		"ru"		"мод боеприпасы за промах"
+	}	
+	"cleaver description"
+	{
+		"ru"		"описание тесака"
+	}	
+	
+	"crit vs stunned players"
+	{
+		"ru"		"крит против оглушенных игроков"
+	}	
+	"Honor!"
+	{
+		"ru"		"Честь!"
+	}
+	"honorbound"
+	{
+		"ru"		"Оружие чести"
+	}
+	"aiming no flinch when hurt"
+	{
+		"ru"		"прицел не вздрогнет, пока это оружие в руках"
+	}
+	"increase player capture value"
+	{
+		"ru"		"увеличичь значение захвата игрока"
+	}	
+	"airblast vulnerability multiplier"
+	{
+		"ru"		"множитель сжатого воздуха"
+	}
+	"airblast vertical vulnerability multiplier"
+	{
+		"ru"		"множитель вертикального сжатого воздуха"
+	}
+	"drop health pack on kill"
+	{
+		"ru"		"выпадает аптечка при убийстве"
+	}
+	"speed boost on hit"
+	{
+		"ru"		"увеличение скорости при попадании"
+	}
+	"grenade dmg bonus when on ground"
+	{
+		"ru"		"бонус к урону от гранаты при нахождении на земле"
+	}
+	"projectile no deflect"
+	{
+		"ru"		"снаряд без отклонения"
+	}
+	"Immunity to crits"
+	{
+		"ru"		"Иммунитет к критам"
+	}
+	"Uber Powerup"
+	{
+		"ru"		"Бонус: убер"
+	}
+	"increased control in air (S)"
+	{
+		"ru"		"повышенный контроль в воздухе (S)"
+	}
+	"invisible uber"
+	{
+		"ru"		"невидимый убер"
+	}
+	"Invis Uber"
+	{
+		"ru"		"Невидимый убер"
+	}
+	"sniper no headshots"
+	{
+		"ru"		"снайпер без выстрелов в голову"
+	}
+	"passive fire resist"
+	{
+		"ru"		"пассивное сопротивление огню"
+	}
+	"passive blast resist"
+	{
+		"ru"		"пассивное сопротивление взрыву"
+	}
+	"passive bullet resist"
+	{
+		"ru"		"пассивное сопротивление пулям"
+	}
+	"medigun charge is boost"
+	{
+		"ru"		"заряд лечебной пушки - положит. эффект"
+	}
+	"Damage bonus vs player (S)"
+	{
+		"ru"		"Бонус к урону против игрока (S)"
+	}
+	"Shield Duration"
+	{
+		"ru"		"Продолжительность щита"
+	}
+	"Vaccinator Specific upgrades"
+	{
+		"ru"		"Особые улучшения для вакцинатора"
+	}
+	"Vaccinator resist upgrades"
+	{
+		"ru"		"Улучшения сопротивления вакцинатора"
+	}
+	"damage penalty on bodyshot"
+	{
+		"ru"		"штраф за выстрел в тело"
+	}
+	"sniper no headshot without full charge"
+	{
+		"ru"		"снайпер без выстрела в голову без полного заряда"
+	}
+	"damage bonus while disguised"
+	{
+		"ru"		"бонус к урону при маскировке"
+	}
+	
+	
+	
+	//SPECIAL TWEAKS NAMES
+	
+	"Powerups"
+	{
+		"ru"		"Бонусы"
+	}
+	"super gun"
+	{
+		"ru"		"пушка supreme"
+	}
+	"Tankyness"
+	{
+		"ru"		"Танковатость"
+	}
+	"Higher caliber Bullets"
+	{
+		"ru"		"Пули высокого калибра"
+	}
+	"Armor Piercing Explosive"
+	{
+		"ru"		"Бронебойная взрывчатка"
+	}
+	"mad milk syringes"
+	{
+		"ru"		"шприцы с безумным молоком"
+	}
+	"Army of not Many"
+	{
+		"ru"		"Малая армия"
+	}
+	"Some Beggar Tweak"
+	{
+		"ru"		"Некоторая хитрость бродяги"
+	}
+	"Some Other Beggar Tweak"
+	{
+		"ru"		"Некоторая другая хитрость бродяги"
+	}
+	"Medic Beggar Tweak"
+	{
+		"ru"		"Хитрость бродяги медика"
+	}
+	"Heavy Heavy Heavy Weapon"
+	{
+		"ru"		"Тяжелое тяжелое тяжелое оружие"
+	}
+	"Heavy Electric Motor"
+	{
+		"ru"		"Тяжелый Электромотор"
+	}
+	"Assault Weapon"
+	{
+		"ru"		"Штурмовое оружие"
+	}
+	"Bigger Caliber"
+	{
+		"ru"		"Большой калибр"
+	}
+	"Bigger Little Caliber."
+	{
+		"ru"		"Большой маленький калибр."
+	}
+	"Sentry Heavy Motor"
+	{
+		"ru"		"Тяжелый мотор турели"
+	}
+	"Sentry Bigger Caliber"
+	{
+		"ru"		"Большой калибр турели"
+	}
+	"Concentrated Fire"
+	{
+		"ru"		"Концентрированный огонь"
+	}
+	"Higher Pressure"
+	{
+		"ru"		"Высокое давление"
+	}
+	"Temperature rise"
+	{
+		"ru"		"Рост температуры"
+	}
+	"Kamikaze strike"
+	{
+		"ru"		"Удар камикадзе"
+	}
+	"Fast Shot"
+	{
+		"ru"		"Быстрый выстрел"
+	}
+	"Fast Laser Shot"
+	{
+		"ru"		"Быстрый лазерный выстрел"
+	}
+	"Heavy Laser Shot"
+	{
+		"ru"		"Тяжелый лазерный выстрел"
+	}
+	"Slow swing"
+	{
+		"ru"		"Медленный размах"
+	}
+	"Short charge"
+	{
+		"ru"		"Короткий рывок"
+	}
+	"Le Flingueur"
+	{
+		"ru"		"Le Flingueur"	
+	}
+
+	
+
+}
